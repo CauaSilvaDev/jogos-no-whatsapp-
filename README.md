@@ -1,8 +1,6 @@
 # Projetos em Node.js
 
-Bem-vindo aos projetos em Node.js desenvolvidos por CauaSilvaDev!
-
-Este repositório contém uma coleção de projetos desenvolvidos totalmente do zero. A seguir, você terá passo a passo para usar os projetos disponiveis em NODE.JS para usar no Linux Ubuntu 18 ou superior:
+Este repositório contém uma coleção de jogos desenvolvidos totalmente do zero. A seguir, você terá passo a passo para usar os projetos disponiveis em NODE.JS para usar no Linux Ubuntu 18 ou superior:
 
 # Passo 1: Atualizar o Sistema
 
